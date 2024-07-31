@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14083538094",
+    "project_id": "queazy-981f3",
+    "storage_bucket": "queazy-981f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14083538094:android:b5a9ea431aec09ad3fc13f",
+        "android_client_info": {
+          "package_name": "com.example.sozluk_projesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqSPVF9kfETW0PDwo_D33gSIVZxw3BDQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
